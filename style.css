@@ -1,0 +1,101 @@
+  
+      @import url('https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css');
+  
+  
+  body {
+        background-color:DarkSalmon;
+        color:black;
+        font-size:26px;
+        font-weight:bold;
+        line-height:1.5;
+        font-family:"Arial";
+        border:7px solid blueviolet;
+        padding:15px;
+        margin:0;
+        text-align:center;
+         }
+          
+          .nav li{
+  
+          display:inline-block;
+            list-style-type:none;
+            height:30px;
+            padding:20;
+            margin:15;
+          font-size:26px;
+          text-align:center;
+            }
+
+        .nav{
+              margin:20;
+              padding:2;
+              background-color:cyanS;
+              width:100%;
+              font-size:24px;
+            }
+
+        .nav li a {
+             background-color:greenyellow;
+            color:white;
+              text-decoration:none;
+              float:left;
+              width:auto;
+            border-right:solid 2px white;
+              text-transform:uppercase;    
+            }
+        .nav li.first-child a{
+              border-left:solid 1px yellow;
+            }
+        .nav li a:link{
+              color:purple;
+            }
+        .nav li a:visited{
+              color:blue;
+            }
+        .nav li a:hover{
+             color:orange;
+            }
+        .nav li a:active{
+             color:cyan;
+        }
+        .nav{
+            
+        
+          ss');
+        }
+        img.dej{
+          width:15%;
+          border:cyan solid 5px;
+        }
+        img.yg{
+          width:15%;
+          border:cyan solid 5px;
+        }
+        img.taylor{
+          width:15%;
+          height:35%;
+          border:cyan solid 5px;
+        }
+
+        .sidebar{
+          width:600px;
+          height:400px;
+          float:right
+        }
+        img.atm{
+          width:30%;
+          border: yellow solid 5px;
+        }
+
+        img.team{
+          width:25%;
+          border:yellow solid 5px;
+        }
+        img.success{
+          border:cyan solid 5px;
+        }
+        img.bruce{
+          border:cyan solid 5px;
+        }
+
+        
